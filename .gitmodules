@@ -1,0 +1,3 @@
+[submodule "VTodo-Config"]
+	path = VTodo-Config
+	url = https://github.com/Bootids/VTodo-Config.git
