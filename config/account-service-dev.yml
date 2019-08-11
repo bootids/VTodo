@@ -15,3 +15,9 @@ eureka:
   client:
     service-url:
       defaultZone: http://localhost:8761/eureka
+
+mybatis:
+  mapper-locations: classpath*:/mapper/**/*.xml
+  type-aliases-package: indi.bootis.vtodo.account.model
+  configuration:
+    map-underscore-to-camel-case: true
