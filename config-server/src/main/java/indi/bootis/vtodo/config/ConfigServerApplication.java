@@ -1,4 +1,4 @@
-package indi.bootis.config;
+package indi.bootis.vtodo.config;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.EnableAutoConfiguration;

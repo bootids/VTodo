@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  indi.bootis.vtodo.common.config.CommonConfiguration,\
+  indi.bootis.vtodo.common.config.LocaleConfig
